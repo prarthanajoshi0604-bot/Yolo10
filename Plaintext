@@ -1,0 +1,5 @@
+yolo-pose-app/
+├── app.py              # The brain of your app
+├── requirements.txt    # Essential for Streamlit Cloud
+└── .streamlit/
+    └── config.toml     # For the "Dark/Attractive" theme
